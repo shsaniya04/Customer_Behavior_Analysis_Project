@@ -98,7 +98,8 @@ A retail organization wants to understand:
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard image here)*
+<img width="895" height="487" alt="image" src="https://github.com/user-attachments/assets/57da1501-0428-4cc8-8d94-d2deaed91812" />
+
 
 ---
 
@@ -107,7 +108,8 @@ A retail organization wants to understand:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/customer-behavior-analysis.git
+git clone https://github.com/shsaniya04/Customer_Behavior_Analysis_Project.git
+
 ```
 
 2. Open Python notebooks for EDA
